@@ -1,5 +1,10 @@
 # ML-para-Negocios
 Repositorio de los workshops de Machine Learning para Negocios
+
+## Google Drive
+Aqui se encuentran los libros en los que se basa el curso:
+
+https://drive.google.com/drive/folders/17ZvDYB7CAkis7VZvp-vu6wunWHOBJmrk?usp=sharing
 ## Google Colab
 Con tal de que los workshops sean lo mas fluidos posibles, es conveniente que usemos Google Colab. [**Google Colaboratory**](https://colab.research.google.com/notebooks/welcome.ipynb) es un entorno de Jupyter notebook gratuito que se ejecuta completamente en la nube. La plataforma permite tanto escribir como ejecutar código, y solo se requiere de una cuenta google.
 
