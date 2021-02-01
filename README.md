@@ -16,6 +16,7 @@ Si el repositorio se ha clonado correctamente, notará que en la carpeta de arch
 
 ## WORKSHOP 1
 En este primer Workshop se hizo una introduccion a machine learning y se desarrollo un ejemplo de clasificacion de cerdos y perros.
+Si precionas el siguiente boton, te llevara al desarrollo del ejemplo y si presionas en la imagen, te mostrara la grabacion del workshop.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emmt1998/ML-para-Negocios/blob/main/workshop_01/Workshop_N01.ipynb)
 
