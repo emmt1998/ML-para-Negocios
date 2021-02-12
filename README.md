@@ -33,3 +33,9 @@ En este segundo workshop se empezo a crear un sistema de recomendaciones, se cre
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emmt1998/ML-para-Negocios/blob/main/workshop_02/Workshop_N02.ipynb)
 
 [![Open In Drive](https://raw.githubusercontent.com/emmt1998/ML-para-Negocios/main/workshop_02/bin/wk2.jpg)](https://drive.google.com/file/d/1i7b2y_T8lXUk9jdDlgikyqFqF3y3I_y6/view)  
+
+## WORKSHOP 3
+Seguimos trabajando con el sistema de recomendacion.
+
+Notebook proporcionado por el profesor:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emmt1998/ML-para-Negocios/blob/main/workshop_03/Introducion_Recomendacion.ipynb)
