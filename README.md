@@ -6,7 +6,7 @@ En cada carpeta, hay un archivo con casi el mismo nombre que la carpeta, con for
 Los demas archivos, exceptuando los de la carpeta "bin" son los materiales usado por el profesor para realizar el workshop.
 
 ## Google Drive
-Aqui se encuentran los libros en los que se basa el curso:
+Aqui se encuentran los libros que el profesor recomienda, estan separados en principales y complementarios.
 
 https://drive.google.com/drive/folders/17ZvDYB7CAkis7VZvp-vu6wunWHOBJmrk?usp=sharing
 ## Google Colab
