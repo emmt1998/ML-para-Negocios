@@ -1,5 +1,9 @@
 # ML-para-Negocios
-Repositorio de los workshops de Machine Learning para Negocios
+Repositorio de los workshops de Machine Learning para Negocios.
+
+# ¿Cual archivo es el workshop?
+En cada carpeta, hay un archivo con casi el mismo nombre que la carpeta, con formato ipynb, asi la carpeta "workshop_01" tiene un archivo llamado "Workshop_N01.ipynb", estos archivos fueron redactados por mi, y constituyen un esfuerzo en resumir lo que se vio en el workshop.
+Los demas archivos, exceptuando los de la carpeta "bin" son los materiales usado por el profesor para realizar el workshop.
 
 ## Google Drive
 Aqui se encuentran los libros en los que se basa el curso:
@@ -35,7 +39,10 @@ Workshop 2 Redactado : [![Open In Colab](https://colab.research.google.com/asset
 [![Open In Drive](https://raw.githubusercontent.com/emmt1998/ML-para-Negocios/main/workshop_02/bin/wk2.jpg)](https://drive.google.com/file/d/1i7b2y_T8lXUk9jdDlgikyqFqF3y3I_y6/view)  
 
 ## WORKSHOP 3
-Seguimos trabajando con el sistema de recomendacion.
+En este principalmente se re-explico el codigo que se uso la semana pasada, ya que en el workshop pasado la explicacion tuvo problemas.
+Es casi lo mismo que el Workshop 2 Redactado, pero si quieres ver un ejemplo del uso de la funcion 'loc' te recomiendo que le heches un ojo al Notebook del profesor.
 
-Notebook del profesor:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emmt1998/ML-para-Negocios/blob/main/workshop_03/Introducion_Recomendacion.ipynb)
+Notebook del profesor: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emmt1998/ML-para-Negocios/blob/main/workshop_03/Introducion_Recomendacion.ipynb)
+
+[![Open In Drive](https://raw.githubusercontent.com/emmt1998/ML-para-Negocios/main/workshop_03/bin/wk3.jpg)](https://drive.google.com/file/d/1eOfeDEUKGVEPivehROl79MzsKGf4NRJ6/view)  
+
