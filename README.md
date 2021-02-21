@@ -46,3 +46,13 @@ Notebook del profesor: [![Open In Colab](https://colab.research.google.com/asset
 
 [![Open In Drive](https://raw.githubusercontent.com/emmt1998/ML-para-Negocios/main/workshop_03/bin/wk3.jpg)](https://drive.google.com/file/d/1eOfeDEUKGVEPivehROl79MzsKGf4NRJ6/view)  
 
+## WORKSHOP 4
+Se repaso lo del workshop anterior y se introdujo la idea de distancias entre usuarios.
+
+Notebook del profesor: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emmt1998/ML-para-Negocios/blob/main/workshop_04/Introducion_Recomendacion.ipynb)
+
+Workshop 4 Redactado : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emmt1998/ML-para-Negocios/blob/main/workshop_04/Workshop_N04.ipynb)
+
+[![Open In Drive](https://raw.githubusercontent.com/emmt1998/ML-para-Negocios/main/workshop_04/bin/wk4-1.png)](https://drive.google.com/file/d/1iE2Irtxuq5Pm3yQRVe8vW0gnajuTsYzR/view)  
+[![Open In Drive](https://raw.githubusercontent.com/emmt1998/ML-para-Negocios/main/workshop_04/bin/wk4-2.png)](https://drive.google.com/file/d/1V8NeOeVGg-qtB6BROBTbvJuaRkq8RJgX/view)
+
