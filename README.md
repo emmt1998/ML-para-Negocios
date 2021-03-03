@@ -56,3 +56,9 @@ Workshop 4 Redactado : [![Open In Colab](https://colab.research.google.com/asset
 [![Open In Drive](https://raw.githubusercontent.com/emmt1998/ML-para-Negocios/main/workshop_04/bin/wk4-1.png)](https://drive.google.com/file/d/1iE2Irtxuq5Pm3yQRVe8vW0gnajuTsYzR/view)  
 [![Open In Drive](https://raw.githubusercontent.com/emmt1998/ML-para-Negocios/main/workshop_04/bin/wk4-2.png)](https://drive.google.com/file/d/1V8NeOeVGg-qtB6BROBTbvJuaRkq8RJgX/view)
 
+## WORKSHOP 5
+Se vio como calcular la distancia entre usuarios con una gran cantidad de peliculas.
+
+Notebook del profesor: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emmt1998/ML-para-Negocios/blob/main/workshop_05/Introducion_Recomendacion.ipynb)
+
+[![Open In Drive](https://raw.githubusercontent.com/emmt1998/ML-para-Negocios/main/workshop_05/bin/wk5.png)](-)  
