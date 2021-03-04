@@ -61,4 +61,4 @@ Se vio como calcular la distancia entre usuarios con una gran cantidad de pelicu
 
 Notebook del profesor: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emmt1998/ML-para-Negocios/blob/main/workshop_05/Introducion_Recomendacion.ipynb)
 
-[![Open In Drive](https://raw.githubusercontent.com/emmt1998/ML-para-Negocios/main/workshop_05/bin/wk5.png)](-)  
+[![Open In Drive](https://raw.githubusercontent.com/emmt1998/ML-para-Negocios/main/workshop_05/bin/wk5.png)](https://drive.google.com/file/d/19MYvjT2obebS7t00YQs25q4zzBszau45/view)  
