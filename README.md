@@ -64,5 +64,8 @@ Notebook del profesor: [![Open In Colab](https://colab.research.google.com/asset
 [![Open In Drive](https://raw.githubusercontent.com/emmt1998/ML-para-Negocios/main/workshop_05/bin/wk5.png)](https://drive.google.com/file/d/19MYvjT2obebS7t00YQs25q4zzBszau45/view)  
 
 ## WORKSHOP 6
-Se logro recomendar en base a los usuarios mas cercanos.
+Se logro recomendar una lista de peliculas en base a los usuarios mas parecidos.
 
+Notebook del profesor: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emmt1998/ML-para-Negocios/blob/main/workshop_06/Introducción_Recomendación.ipynb)
+
+[![Open In Drive](https://raw.githubusercontent.com/emmt1998/ML-para-Negocios/main/workshop_06/bin/wk-6.jpg)](https://drive.google.com/file/d/1rNbK_Sb0BJD_NZMgd28fTiN3xzZ_7dkq/view)  
