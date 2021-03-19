@@ -31,14 +31,14 @@ Workshop 1 Redactado : [![Open In Colab](https://colab.research.google.com/asset
 
 [![Open In Youtube](https://raw.githubusercontent.com/emmt1998/ML-para-Negocios/main/workshop_01/bin/wk1.png)](https://youtu.be/ntLB2bk-RQ8)  
 
-## WORKSHOP 2
+## WORKSHOP 2 - Sistema de Recomendacion
 En este segundo workshop se empezo a crear un sistema de recomendaciones, se creo un recomendador por popularidad y uno por ratings, en el proximo workshop se espera continuar trabajando en sistemas de recomendaciones.
 
 Workshop 2 Redactado : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emmt1998/ML-para-Negocios/blob/main/workshop_02/Workshop_N02.ipynb)
 
 [![Open In Drive](https://raw.githubusercontent.com/emmt1998/ML-para-Negocios/main/workshop_02/bin/wk2.jpg)](https://drive.google.com/file/d/1i7b2y_T8lXUk9jdDlgikyqFqF3y3I_y6/view)  
 
-## WORKSHOP 3
+## WORKSHOP 3 - Sistema de Recomendacion
 En este principalmente se re-explico el codigo que se uso la semana pasada, ya que en el workshop pasado la explicacion tuvo problemas.
 Es casi lo mismo que el Workshop 2 Redactado, pero si quieres ver un ejemplo del uso de la funcion 'loc' te recomiendo que le heches un ojo al Notebook del profesor.
 
@@ -46,7 +46,7 @@ Notebook del profesor: [![Open In Colab](https://colab.research.google.com/asset
 
 [![Open In Drive](https://raw.githubusercontent.com/emmt1998/ML-para-Negocios/main/workshop_03/bin/wk3.jpg)](https://drive.google.com/file/d/1eOfeDEUKGVEPivehROl79MzsKGf4NRJ6/view)  
 
-## WORKSHOP 4
+## WORKSHOP 4 - Sistema de Recomendacion
 Se repaso lo del workshop anterior y se introdujo la idea de distancias entre usuarios.
 
 Notebook del profesor: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emmt1998/ML-para-Negocios/blob/main/workshop_04/Introducion_Recomendacion.ipynb)
@@ -56,21 +56,21 @@ Workshop 4 Redactado : [![Open In Colab](https://colab.research.google.com/asset
 [![Open In Drive](https://raw.githubusercontent.com/emmt1998/ML-para-Negocios/main/workshop_04/bin/wk4-1.png)](https://drive.google.com/file/d/1iE2Irtxuq5Pm3yQRVe8vW0gnajuTsYzR/view)  
 [![Open In Drive](https://raw.githubusercontent.com/emmt1998/ML-para-Negocios/main/workshop_04/bin/wk4-2.png)](https://drive.google.com/file/d/1V8NeOeVGg-qtB6BROBTbvJuaRkq8RJgX/view)
 
-## WORKSHOP 5
+## WORKSHOP 5 - Sistema de Recomendacion
 Se vio como calcular la distancia entre usuarios con una gran cantidad de peliculas.
 
 Notebook del profesor: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emmt1998/ML-para-Negocios/blob/main/workshop_05/Introducion_Recomendacion.ipynb)
 
 [![Open In Drive](https://raw.githubusercontent.com/emmt1998/ML-para-Negocios/main/workshop_05/bin/wk5.png)](https://drive.google.com/file/d/19MYvjT2obebS7t00YQs25q4zzBszau45/view)  
 
-## WORKSHOP 6
+## WORKSHOP 6 - Sistema de Recomendacion
 Se logro recomendar una lista de peliculas en base a los usuarios mas parecidos.
 
 Notebook del profesor: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emmt1998/ML-para-Negocios/blob/main/workshop_06/Introducción_Recomendación.ipynb)
 
 [![Open In Drive](https://raw.githubusercontent.com/emmt1998/ML-para-Negocios/main/workshop_06/bin/wk-6.jpg)](https://drive.google.com/file/d/1rNbK_Sb0BJD_NZMgd28fTiN3xzZ_7dkq/view)  
 
-## WORKSHOP 7
+## WORKSHOP 7 - Sistema de Recomendacion
 Se finaliza el recomendador por medio de KNN.
 El video esta medio cortado, pero la parte que se explica en ese segmento perdido, esta en videos anteriores.
 
