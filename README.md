@@ -71,9 +71,18 @@ Notebook del profesor: [![Open In Colab](https://colab.research.google.com/asset
 [![Open In Drive](https://raw.githubusercontent.com/emmt1998/ML-para-Negocios/main/workshop_06/bin/wk-6.jpg)](https://drive.google.com/file/d/1rNbK_Sb0BJD_NZMgd28fTiN3xzZ_7dkq/view)  
 
 ## WORKSHOP 7 - Sistema de Recomendacion
+
 Se finaliza el recomendador por medio de KNN.
 El video esta medio cortado, pero la parte que se explica en ese segmento perdido, esta en videos anteriores.
 
 Notebook del profesor: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emmt1998/ML-para-Negocios/blob/main/workshop_07/Introducción_Recomendación.ipynb)
 
-[![Open In Drive](https://raw.githubusercontent.com/emmt1998/ML-para-Negocios/main/workshop_07/bin/wk7.jpg)](https://drive.google.com/file/d/1kt_SpeKwNr9lkPhEDcUkD2HbyurTensL/view)  
+[![Open In Drive](https://raw.githubusercontent.com/emmt1998/ML-para-Negocios/main/workshop_07/bin/wk7.jpg)](https://drive.google.com/file/d/1kt_SpeKwNr9lkPhEDcUkD2HbyurTensL/view) 
+
+## WORKSHOP 8 - Sistema de Recomendacion
+
+Se expande el recomendador KNN.
+
+Notebook del profesor: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emmt1998/ML-para-Negocios/blob/main/workshop_08/Introducción_Recomendación.ipynb)
+
+[![Open In Drive](https://raw.githubusercontent.com/emmt1998/ML-para-Negocios/main/workshop_08/bin/wk8.jpg)](https://drive.google.com/file/d/1pczgwXyI6dWWVAvUyaIZn2vf1ptUBXBs/view)  
