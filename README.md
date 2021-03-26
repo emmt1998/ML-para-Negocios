@@ -1,5 +1,7 @@
-# ML-para-Negocios
+# ML-para-Negocios: Sistema de Recomendacion
 Repositorio de los workshops de Machine Learning para Negocios.
+Dictado por Sergio Valenzuela / sergio@tecnopolis.ai / serginho61@gmail.com
+Organizado por Efrain Magaña / emmt1998@gmail.com
 
 # ¿Cual archivo es el workshop?
 En cada carpeta, hay un archivo con casi el mismo nombre que la carpeta, con formato ipynb, asi la carpeta "workshop_01" tiene un archivo llamado "Workshop_N01.ipynb", estos archivos fueron redactados por mi, y constituyen un esfuerzo en resumir lo que se vio en el workshop.
@@ -23,7 +25,7 @@ Si el repositorio se ha clonado correctamente, notará que en la carpeta de arch
 
 `%cd /content/ML-para-Negocios`
 
-## WORKSHOP 1
+## WORKSHOP 1 - Intro a Machine Learning
 En este primer Workshop se hizo una introduccion a machine learning y se desarrollo un ejemplo de clasificacion de cerdos y perros.
 Si presionas el siguiente boton, te llevara al desarrollo del ejemplo y si presionas en la imagen, te mostrara la grabacion del workshop.
 
