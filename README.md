@@ -1,6 +1,8 @@
 # ML-para-Negocios: Sistema de Recomendacion
 Repositorio de los workshops de Machine Learning para Negocios.
+
 Dictado por Sergio Valenzuela / sergio@tecnopolis.ai / serginho61@gmail.com
+
 Organizado por Efrain Magaña / emmt1998@gmail.com
 
 # ¿Cual archivo es el workshop?
