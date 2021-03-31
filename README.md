@@ -90,3 +90,12 @@ Se expande el recomendador KNN.
 Notebook del profesor: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emmt1998/ML-para-Negocios/blob/main/workshop_08/Introducción_Recomendación.ipynb)
 
 [![Open In Drive](https://raw.githubusercontent.com/emmt1998/ML-para-Negocios/main/workshop_08/bin/wk8.jpg)](https://drive.google.com/file/d/1pczgwXyI6dWWVAvUyaIZn2vf1ptUBXBs/view)  
+
+
+## WORKSHOP 9(FINAL) - Sistema de Recomendacion
+
+Se termina la serie de workshops.
+
+Notebook del profesor: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emmt1998/ML-para-Negocios/blob/main/workshop_09/Introducción_Recomendación.ipynb)
+
+[![Open In Drive](https://raw.githubusercontent.com/emmt1998/ML-para-Negocios/main/workshop_09/bin/wk9.jpg)](https://drive.google.com/file/d/1XZP4M4TARGbdMuigFVqxK5Enn2yikoFI/view)  
